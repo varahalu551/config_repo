@@ -1,5 +1,5 @@
 global:
-  message: Welcome to customer service prod environment:
+  message: Welcome to customer service prod environment
 server:
   port: 8083
 message: Hello from Prod
