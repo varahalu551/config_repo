@@ -1,5 +1,5 @@
 global:
-  message: Welcome to order service prod environment:
+  message: Welcome to order service prod environment
 server:
   port: 8083
 message: Hello from Order Prod
